@@ -8,7 +8,7 @@ Senior Android engineer in Casablanca (GMT+1). I build native Android apps in Ko
 
 | Project | What it does | Built with |
 |---|---|---|
-| [EarSight](https://github.com/abssi-maker/EarSight) | Writes an audio description track for a video: finds the silences between dialogue, decides what to narrate, synthesizes speech and mixes it into the original audio. | Python, Gemini TTS, Kafka, AI agents |
+| [EarSight](https://github.com/abssi-maker/EarSight) | Writes an audio description track for a video: finds the silences between dialogue, decides what to narrate, synthesizes speech and mixes it into the original audio. [Demo video](https://www.youtube.com/watch?v=JJeedOXAY3k) | Python, Gemini TTS, Kafka, AI agents |
 | [Goodnight TV](https://github.com/abssi-maker/goodnight-tv) | A Fire TV bedtime routine with a synthesized narrator voice, two raw-PCM audio streams and on-demand AI sound mixing. [Demo video](https://www.youtube.com/watch?v=FqS5VNkX7mQ) | React Native for Vega, Amazon Polly, Amazon Nova |
 
 ## Other things I've shipped
